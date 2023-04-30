@@ -1,0 +1,6 @@
+mongodb connected with theahsanhabib@gmail.com
+mondodb atlas cluster name ="daccathrift"\
+user: {
+    user: 'theahsanhabib'
+    pass: 'Hab1B!'
+}
